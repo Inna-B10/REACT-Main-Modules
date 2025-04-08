@@ -19,3 +19,6 @@
 [submodule "Study-Materials/2024-04-21-REACT-useState-hook"]
 	path = Study-Materials/2024-04-21-REACT-useState-hook
 	url = https://github.com/Inna-B10/2024-04-21-REACT-useState-hook.git
+[submodule "Study-Materials/2024-05-16-REACT-Basic-react-hooks"]
+	path = Study-Materials/2024-05-16-REACT-Basic-react-hooks
+	url = https://github.com/Inna-B10/2024-05-16-REACT-Basic-react-hooks.git
