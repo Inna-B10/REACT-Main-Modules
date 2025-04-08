@@ -1,3 +1,6 @@
 [submodule "Study-Materials/2024-03-05-REACT-Components"]
 	path = Study-Materials/2024-03-05-REACT-Components
 	url = https://github.com/Inna-B10/2024-03-05-REACT-Components.git
+[submodule "Study-Materials/2024-03-07-REACT-Rendering-of-lists"]
+	path = Study-Materials/2024-03-07-REACT-Rendering-of-lists
+	url = https://github.com/Inna-B10/2024-03-07-REACT-Rendering-of-lists.git
