@@ -10,3 +10,6 @@
 [submodule "Study-Materials/2024-03-14-REACT-Synchronizing-with-external-systems"]
 	path = Study-Materials/2024-03-14-REACT-Synchronizing-with-external-systems
 	url = https://github.com/Inna-B10/2024-03-14-REACT-Synchronizing-with-external-systems.git
+[submodule "Study-Materials/2024-03-19-REACT-Advanced-state-management"]
+	path = Study-Materials/2024-03-19-REACT-Advanced-state-management
+	url = https://github.com/Inna-B10/2024-03-19-REACT-Advanced-state-management.git
