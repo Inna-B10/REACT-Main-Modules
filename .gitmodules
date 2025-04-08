@@ -7,3 +7,6 @@
 [submodule "Study-Materials/2024-03-11-REACT-Routing-and-event-handling"]
 	path = Study-Materials/2024-03-11-REACT-Routing-and-event-handling
 	url = https://github.com/Inna-B10/2024-03-11-REACT-Routing-and-event-handling.git
+[submodule "Study-Materials/2024-03-14-REACT-Synchronizing-with-external-systems"]
+	path = Study-Materials/2024-03-14-REACT-Synchronizing-with-external-systems
+	url = https://github.com/Inna-B10/2024-03-14-REACT-Synchronizing-with-external-systems.git
