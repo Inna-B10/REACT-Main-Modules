@@ -13,3 +13,6 @@
 [submodule "Study-Materials/2024-03-19-REACT-Advanced-state-management"]
 	path = Study-Materials/2024-03-19-REACT-Advanced-state-management
 	url = https://github.com/Inna-B10/2024-03-19-REACT-Advanced-state-management.git
+[submodule "Study-Materials/2024-04-02-REACT-Automated-testing"]
+	path = Study-Materials/2024-04-02-REACT-Automated-testing
+	url = https://github.com/Inna-B10/2024-04-02-REACT-Automated-testing.git
