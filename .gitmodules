@@ -16,3 +16,6 @@
 [submodule "Study-Materials/2024-04-02-REACT-Automated-testing"]
 	path = Study-Materials/2024-04-02-REACT-Automated-testing
 	url = https://github.com/Inna-B10/2024-04-02-REACT-Automated-testing.git
+[submodule "Study-Materials/2024-04-21-REACT-useState-hook"]
+	path = Study-Materials/2024-04-21-REACT-useState-hook
+	url = https://github.com/Inna-B10/2024-04-21-REACT-useState-hook.git
