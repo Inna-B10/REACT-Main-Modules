@@ -4,3 +4,6 @@
 [submodule "Study-Materials/2024-03-07-REACT-Rendering-of-lists"]
 	path = Study-Materials/2024-03-07-REACT-Rendering-of-lists
 	url = https://github.com/Inna-B10/2024-03-07-REACT-Rendering-of-lists.git
+[submodule "Study-Materials/2024-03-11-REACT-Routing-and-event-handling"]
+	path = Study-Materials/2024-03-11-REACT-Routing-and-event-handling
+	url = https://github.com/Inna-B10/2024-03-11-REACT-Routing-and-event-handling.git
